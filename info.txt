@@ -1,0 +1,6 @@
+tutorial
+https://www.youtube.com/watch?v=oBQxFn1CDno&t=543s
+
+COMMANDS
+docker-compose run django
+
